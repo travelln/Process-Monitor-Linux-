@@ -17,9 +17,9 @@ Instructions:
 <img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture1.PNG" width="420">
 
 
-* example with added cpu usage
+* example with added increased cpu usage
 
-<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture2_new_process_opened.PNG" width="420">
+<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture2_new_process_opened%20.PNG" width="420">
 
 * example with just memory usage
 
