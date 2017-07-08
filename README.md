@@ -27,7 +27,7 @@ Instructions:
 
 * example with just cpu usage
 
-<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture3_toggled_memory.PNG" width="420">
+<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture4_toggled_memory.PNG" width="420">
 
 * example for colored version (monitor_color.sh)
 
