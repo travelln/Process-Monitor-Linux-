@@ -7,7 +7,7 @@ Instructions:
 * Two files can be run, either monitor.sh or monitor_color.sh.
                note: monitor_color.sh adds color to usage charts.
 
-* run chmod at the command line for setting executable privleges for process
+* run chmod at the command line for setting executable privileges for process
         i.e. chmod +x monitor.sh or chmod +x monitor_color.sh
         
 * to run application type ./monitor.sh or ./monitor_color.sh
