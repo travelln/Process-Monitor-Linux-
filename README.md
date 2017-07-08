@@ -19,15 +19,15 @@ Instructions:
 
 * example with added cpu usage
 
-<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture2_new_process_opened" width="420">
+<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture2_new_process_opened.PNG" width="420">
 
 * example with just memory usage
 
-<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture3_toggled_cpu" width="420">
+<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture3_toggled_cpu.PNG" width="420">
 
 * example with just cpu usage
 
-<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture3_toggled_memory" width="420">
+<img src="https://github.com/travelln/Process-Monitor-Linux-/blob/master/Monitor_bash_script-images/Capture3_toggled_memory.PNG" width="420">
 
 * example for colored version (monitor_color.sh)
 
